@@ -39,3 +39,4 @@ In the video below, our dean, Avi Flombaum, will give us a short introduction to
 
 [TWINS]: https://www.youtube.com/watch?v=7AS96jRnquI
 [Slides]: https://docs.google.com/presentation/d/1m6SPR13MdfF7YRhfx7HtvkOmFnrRyVQOEFgWhI8Bc0I/edit?usp=sharing
+<p data-visibility='hidden'>PHRG A quick tour of the web</p>
