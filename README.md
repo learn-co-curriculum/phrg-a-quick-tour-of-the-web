@@ -29,6 +29,10 @@ In the video below, our dean, Avi Flombaum, will give us a short introduction to
 * [The Web in a Nutshell][TWINS]
 * [Slides][]
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-a-quick-tour-of-the-web/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-a-quick-tour-of-the-web/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 ## Resources
 
 - [World Wide Web - Wikipedia](https://en.wikipedia.org/wiki/World_Wide_Web)
